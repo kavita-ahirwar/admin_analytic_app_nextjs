@@ -1,0 +1,36 @@
+.highPrioritybtn_1 {
+    background: #FDEDED;
+    color: #E84646;
+    border-radius: 20px;
+    border: none;
+    height: 33px;
+    width: 130px;
+    padding-top: 5px;
+}
+
+.tableCss {
+    width: 280px;
+    align-items: start;
+    justify-content: start;
+}
+
+// .modalcontent {
+//     width: 155% !important;
+// }
+.modal {
+    width: 155%;
+}
+
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 155%;
+    color: var(--bs-modal-color);
+    pointer-events: auto;
+    background-color: var(--bs-modal-bg);
+    background-clip: padding-box;
+    border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+    border-radius: var(--bs-modal-border-radius);
+    outline: 0;
+}

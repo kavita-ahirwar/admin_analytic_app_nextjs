@@ -1,0 +1,40 @@
+.highPrioritybtn {
+    background: #FDEDED;
+    color: #E84646;
+    border-radius: 20px;
+    border: none;
+    height: 33px;
+    width: 130px;
+}
+
+.dropdownCss {
+    height: 30px;
+    margin-right: 25px;
+    width: 141px;
+    border-radius: 25px;
+    padding-left: 10px;
+    margin-left: 10px;
+    outline: none;
+    // margin-top: 4px;
+    background: #FDEDED;
+    color: #E84646;
+    position: absolute;
+}
+
+.urgent_dropdown_css {
+    position: absolute;
+    margin-top: 4px;
+    margin-left: 10px;
+    // background: rgb(240, 246, 255);
+    display: flex
+}
+
+.redImg_css {
+    margin-top: 0px;
+    margin-right: 5px;
+}
+
+.input_css {
+    margin-left: -7px;
+    margin-top: -2px;
+}

@@ -1,0 +1,53 @@
+.cardDiv_1 {
+    width: 57rem;
+    height: 30rem;
+    border: none;
+    // background: rgb(235, 235, 244);
+    background: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.bg_img_css {
+    margin-left: -15px;
+    margin-top: -20px;
+    height: 486px;
+    width: 462px;
+}
+
+.heading_css {
+    // top: 50px;
+    margin-top: 50px;
+    margin-left: 135px;
+    font-size: 22px;
+    color: #191B1C;
+    font-weight: 600;
+    float: center;
+}
+
+.login_content {
+    margin: auto;
+    h1 {
+        font-size: 25px;
+        font-weight: bold;
+    }
+    span {
+        color: #005CE8;
+        font-weight: 600;
+        margin-left: 155px;
+    }
+    .eye {
+        position: absolute;
+        margin-left: 305px;
+        margin-top: -30px;
+    }
+    Button {
+        width: 100%;
+        border-radius: 20px;
+    }
+    // input {
+    //     border: 2px solid #cdbbbb;
+    //     width: 273px;
+    //     border-radius: 7px;
+    // }
+}
